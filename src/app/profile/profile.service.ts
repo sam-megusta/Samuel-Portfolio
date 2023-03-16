@@ -24,6 +24,15 @@ export class ProfileService {
 
     {
       id: 2,
+      title: 'Automated Bot Notifications via Webex Integration for quicker defect resolution and automated control Processes',
+      desc: '',
+            imgUrl: 'assets/images/webex.png',
+      tech: 'Webex Bots, Springboot, MSSQL, API/Microservices'
+    },
+
+
+    {
+      id: 3,
       title: 'Step by Step Conceptual development (from Idea to UI design and ERD) of FitPal Application System',
       desc: '',
       imgUrl: 'assets/images/wnd.png',
@@ -32,7 +41,7 @@ export class ProfileService {
 
 
     {
-      id: 3,
+      id: 4,
       title: 'Phrase Based Speech to Speech Machine Translator between 2 PCs from Hindi to Telugu and Vice-versa',
       desc: '',
       imgUrl: 'assets/images/mt.jpg',
@@ -40,7 +49,7 @@ export class ProfileService {
     },
 
     {
-      id: 4,
+      id: 5,
       title: 'Data Visualization with Tableau',
       desc: '',
             imgUrl: 'assets/images/dv.png',
@@ -48,39 +57,24 @@ export class ProfileService {
     },
 
 
+
     {
-      id: 5,
-      title: 'Automated Bot Notifications via Webex Integration for quicker defect resolution and automated control Processes',
+      id: 6,
+      title: 'Client Server Bank Application using TCP and UDP',
       desc: '',
-            imgUrl: 'assets/images/webex.png',
-      tech: 'Webex Bots, Springboot, MSSQL, API/Microservices'
+      imgUrl: 'assets/images/tcp.png',
+      tech: 'OSI, Computer Networking Fundamentals, TCP/UDP'
     },
 
 
 
-    // {
-    //   id: 6,
-    //   title: 'News App using ReactJS (Parsing XML to JSON)',
-    //   desc: '',
-    //   livedemo: 'https://mehulk05.github.io/NewsApp-using-React',
-    //   githurl: 'https://github.com/mehulk05/NewsApp-using-React',
-    //   mediumlink: 'https://codeburst.io/news-app-using-reactjs-f9752d7ab6ce',
-    //   imgUrl: 'assets/images/z24.png',
-    //   tech: 'React JS, XMl to JSON'
-    // },
-
-
-
-    // {
-    //   id: 7,
-    //   title: 'Medium-Like Blog App Using Angular 9 and Firebase',
-    //   desc: '',
-    //   livedemo: 'https://mehulk05.github.io/Blog-Book/',
-    //   githurl: 'https://github.com/mehulk05/Blog-Book',
-    //   mediumlink: 'https://codeburst.io/blogging-app-using-angular-9-and-firebase-98e36168d850',
-    //   imgUrl: 'assets/images/z21.png',
-    //   tech: 'HTML, Bootstrap, CSS, Angular-9, Firebase'
-    // },
+    {
+      id: 7,
+      title: 'Arduino Alarm Clock',
+      desc: '',
+      imgUrl: 'assets/images/ard.png',
+      tech: 'VHDL, Matlab, C Programming'
+    },
 
 
 
