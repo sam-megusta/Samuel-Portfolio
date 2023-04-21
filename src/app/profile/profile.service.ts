@@ -125,12 +125,12 @@ export class ProfileService {
     },
     {
       'id': '5',
-      'skill': 'DATA/BUSINESS ANALYTICS (R/Tableau/Splunk/Dynatrace/ETL/OLAP/OLTP SYSTEMS)',
+      'skill': 'DATA/BUSINESS ANALYTICS (R/Tableau/Splunk/Dynatrace/ETL)',
       'progress': '81%'
     },
     {
       'id': '6',
-      'skill': 'Business Communication, Leadership, Coachability, Soft Skills',
+      'skill': 'Business Communication, Leadership, Coachability',
       'progress': '100%'
     }
   ];
