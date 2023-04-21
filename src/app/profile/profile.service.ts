@@ -99,7 +99,8 @@ export class ProfileService {
   about = "Curiosly involved in finding more efficient ways to do complex tasks. Meticulously calculated about my work and the approaches used in tackling a problem as I always have a can-do attitude. I am actively Seeking an opportunity for a summer 2023 internship in either software development, Quality Assurance, Product Management or Data Analytics ."
 
   
-  resumeurl = "https://drive.google.com/file/d/14y1h8kIXf6HzoOMT24cTGzGxQbafCfjB/view"
+  //resumeurl = "https://drive.google.com/file/d/14y1h8kIXf6HzoOMT24cTGzGxQbafCfjB/view"
+  resumeurl =  "https://drive.google.com/file/d/1J5h2E9dGP18RVJK_wqWwREeNQa5IVVbi/view"
 
   skillsData: any = [
     {
@@ -119,17 +120,17 @@ export class ProfileService {
     },
     {
       'id': '4',
-      'skill': 'Product Lifecycle Management (Agile/Scrum, Stakeholder Management, PRDs, backlog Grooming) ',
+      'skill': 'Product Lifecycle Management (Agile/Scrum, Stakeholder Management, PRDs, Scrum Mastery, Systems Analysis, ERP, CRM) ',
       'progress': '85%'
     },
     {
       'id': '5',
-      'skill': 'DATA/BUSINESS ANALYTICS (R/Tableau/Splunk/Dynatrace)',
+      'skill': 'DATA/BUSINESS ANALYTICS (R/Tableau/Splunk/Dynatrace/ETL/OLAP/OLTP SYSTEMS)',
       'progress': '81%'
     },
     {
       'id': '6',
-      'skill': 'Business Communication',
+      'skill': 'Business Communication, Leadership, Coachability, Soft Skills',
       'progress': '100%'
     }
   ];
@@ -166,7 +167,7 @@ Completed capstone Project "Implementing a Phrase Based Speech to Speech Machine
       location: 'Chennai, India',
       timeline: 'August 2019 to June 2022',
       role: 'Software Engineer',
-      work: 'Diagrammed and forecasted Network Architecture and Resource Planning for several applications for Ford Credit China with an accuracy of 100% .Ensured high client satisfaction by providing business teams dashboards visualizing data regarding application health and error metrics via Splunk & Dynatrace, and designed dashboards using Tableau describing customer vehicle preferences .Developed Antifraud and AML services for Ford Credit China by consolidating essentials skills in spring framework . Improved automated quotes for Ford customers across the world EU, NA, SA, South Africa by developing several features for the Global Ford Credit Calculator (Global Ecommerce Platform) .Simplified & elucidated error handling, API Metrics, codebase health monitoring, clean code management and similar healthy ethical coding practices by liaising with business teams all over the world (local to Ford Motors Pvt. Ltd.) to implement and incorporate cost-effective features as part of a multinational AGILE (SCRUM) team in a Product Driven Organization .Efficiently leveraged Webex applications to construct Bot Notifications to report errors/defects regarding the user-facing webpages as well as maintenance and execution of periodical batch operations .Actively involved in the front-end development of web application on angular framework, middleware development of microservices/REST APIs on spring frameworks while designing database structures and stored procedures for backend processes with Oracle DB and SQL Servers .Proposed and constructed a proof of concept to integrate Hyperledger Fabric Blockchain for improved security and enhanced data management instead of traditional databases.'
+      work: 'Diagrammed and forecasted Network Architecture and Resource Planning for several applications for Ford Credit China with an accuracy of 100% .Ensured high client satisfaction by providing business teams dashboards visualizing data regarding application health and error metrics via Splunk & Dynatrace, and designed dashboards using Tableau describing customer vehicle preferences allowing business and manufacturing teams to produce more vehicles with said preferences .Developed Antifraud and AML services for Ford Credit China by consolidating essentials skills in spring framework . Improved automated quotes for Ford customers across the world EU, NA, SA, South Africa by developing several features for the Global Ford Credit Calculator (Global Ecommerce Platform) thereby increasing customer base by 45% .Simplified & elucidated error handling, API Metrics, codebase health monitoring, clean code management and similar healthy ethical coding practices by liaising with business teams all over the world (local to Ford Motors Pvt. Ltd.) to implement and incorporate cost-effective features as part of a multinational AGILE (SCRUM) team in a Product Driven Organization .Efficiently leveraged Webex applications to construct Bot Notifications to report errors/defects regarding the user-facing webpages as well as maintenance and execution of periodical batch operations reducing incident response time to under 5 minutes .Actively involved in the front-end development of web application on angular framework, middleware development of microservices/REST APIs on spring frameworks while designing database structures and stored procedures for backend processes with Oracle DB and SQL Servers .Proposed and constructed a proof of concept to integrate Hyperledger Fabric Blockchain for improved security and enhanced data management instead of traditional databases for the management of customer PII Data.'
 
     },
     {
