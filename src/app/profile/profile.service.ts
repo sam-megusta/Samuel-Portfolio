@@ -14,6 +14,23 @@ export class ProfileService {
   ) { }
 
   projects:any = [
+    
+    {
+      id:12,
+      title: 'FullStack Development Project',
+      imgUrl: 'assets/images/fsd.jpg',
+      tech: 'TypeScript, React, ExpressJS, PostGreSQL, REST API, Redux Toolkit, NodeJS, JEST, Postman, HTML/CSS'
+    },
+
+    {
+      id: 5,
+      title: 'Multiple Database Analytics and Business Intelligence Projects done using Tableau',
+      desc: '',
+            imgUrl: 'assets/images/dv.png',
+      tech: 'Tableau,Spreadsheet Analytics, R',
+      mediumLink: ''
+    },
+    
     {
       id: 1,
       title: 'Proof of Concept to Implement IBM Hyperledger Fabric over Traditional DBs for improved security standards for the protection of Customer PII Data',
@@ -52,14 +69,7 @@ export class ProfileService {
       mediumLink: ''
     },
 
-    {
-      id: 5,
-      title: 'Data Visualization with Tableau',
-      desc: '',
-            imgUrl: 'assets/images/dv.png',
-      tech: 'Tableau,Spreadsheet Analytics',
-      mediumLink: ''
-    },
+    
 
 
 
@@ -81,6 +91,30 @@ export class ProfileService {
       imgUrl: 'assets/images/ard.png',
       tech: 'VHDL, Matlab, C Programming',
       mediumLink: ''
+    },
+
+    {
+      id: 8,
+      title: 'Market Research Intelligence Project - New Product Development',
+      desc: '',
+      imgUrl: 'assets/images/ppps.png',
+      tech: 'Financial Analysis, Marketing Mix Modelling, SWOT, Strategic Segmentation, Consumer Behavior, New Product Development, Tableau, Excel'
+    },
+
+    {
+      id: 9,
+      title: 'Database Management Coursework',
+      desc: '',
+      imgUrl: 'assets/images/dms.jpg',
+      tech: 'SQL, SSIS'
+    },
+
+    {
+      id: 10,
+      title: 'Optimizing Publisher and Campaign Strategy for Air France\'s Internet Marketing Campaign',
+      desc: '',
+      imgUrl: 'assets/images/webanal1.jpg',
+      tech: 'SEM, Digital Advertising, RoI Analysis, Excel'
     },
 
     {
