@@ -142,7 +142,7 @@ export class ProfileService {
 
   
   //resumeurl = "https://drive.google.com/file/d/14y1h8kIXf6HzoOMT24cTGzGxQbafCfjB/view"
-  resumeurl =  "https://drive.google.com/file/d/1CDzRpDjE-JkiD89khiRV0xksNOH2NdPY/view"
+  resumeurl =  "https://drive.google.com/file/d/1Df2aeoL0cfHgEyIYRFJyfBRfzdFzzQNb/view?usp=sharing"
   transcripturl = "https://drive.google.com/file/d/1Se7P4-agmN82ulU0saij7i3o-0LNMzXH/view?usp=sharing"
 
   skillsData: any = [
