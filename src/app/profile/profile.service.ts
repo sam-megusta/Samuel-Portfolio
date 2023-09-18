@@ -17,7 +17,7 @@ export class ProfileService {
     
     {
       id:12,
-      title: 'FullStack Development Project',
+      title: 'Full Stack Development Project',
       imgUrl: 'assets/images/fsd.jpg',
       tech: 'TypeScript, React, ExpressJS, PostGreSQL, REST API, Redux Toolkit, NodeJS, JEST, Postman, HTML/CSS'
     },
@@ -130,15 +130,25 @@ export class ProfileService {
     
 
   ]
-  about2 = `I am an analytical-minded, motivated individual with an in-depth knowledge of programming languages and development tools seeking to hone my technical skills and expertise along with designing creative software and products as per the org's needs as FullStack Developer .
+  about2 = `🚀 Passionate Software Engineer | Innovative Tech Evangelist | Data-driven Problem Solver 🚀. .
 
-  Currently pursuing my Master of Science Degree in Information Technology & Management with UT Dallas .
+  Greetings! I'm Samuel, a dynamic and results-driven Full Stack Software Engineer with a penchant for pushing boundaries and transforming concepts into impactful digital solutions. My journey is fueled by an insatiable curiosity for technology's boundless potential and a commitment to delivering excellence. .
   
-  I'm an experienced Full Stack Engineer with 3 years of demonstrated history of working in the financial IT sector of the automotive industry. I have a strong engineering background with a Bachelor's of Technology degree focused in Electronics and Communications Engineering from National Institute of Technology Warangal where I worked on capstone projects involving Deep learning, AI, DSP, VLSI, etc. .
+  💡 With a Master's in Information Technology and Management from The University of Texas at Dallas, and a Bachelor's in Electronics and Communication Engineering from NIT Warangal, I've honed my technical prowess across multiple diverse platforms including Java, React, Python, C++ and more. Whether it's architecting intricate microservices, designing cost-effective solutions architecture or crafting immersive user experiences, I thrive on turning complexity into simplicity. .
   
-  During my tenure as a Software Engineer at Ford, I have demonstrated excellence in rapid application development, error/defects reporting, automatic quote generation, as well as customer and business satisfaction. In addition, I have proven abilities in developing antifraud and AML services, database management, regression test scripts development, automation testing, bot notifications development, error handling and clean code management.`
+  🌐 I'm an advocate for leveraging cutting-edge tools and technologies to solve real-world challenges. From cloud solutions (AWS, GCP, Azure) to DevOps (Jenkins, OpenShift), my expertise extends across the tech landscape. With a flair for analytics and visualization (Tableau, PowerBI), I've empowered my previous organizations with insights that drive growth and success. .
+  
+  🛠️ Beyond coding, I'm an AI enthusiast, an ardent supporter of agile methodologies, and an adept problem-solver. My experience at Ford Motor Private Ltd. has equipped me with skills to lead cross-functional teams, optimize project lifecycles, and drive cost efficiencies. .
+  
+  📈 My journey also spans impactful academic projects. Whether analyzing COVID vaccine hesitancy data, Developing an implementation and marketing plan for new products or crafting innovative web marketing strategies, I'm a relentless explorer of new frontiers in tech. .
+  
+  🏆 Recognized by Ford's Reward and Recognition program for exceptional contributions to API microservices and e-commerce solutions, I'm dedicated to continuous learning, improvement and innovation. .
+  
+  🌍 Let's connect and embark on a journey to harness technology's transformative power together. Whether it's coding breakthroughs, pioneering data insights, or collaborating on visionary projects, I'm eager to be part of the next big thing in tech. .
+  
+  Connect with me to explore the future of technology and innovation. Let's create brilliance together! 🌟 #TechEnthusiast #Innovation #DataDriven #SoftwareEngineering`
 
-  about = "Curiosly involved in finding more efficient ways to do complex tasks. Meticulously calculated about my work and the approaches used in tackling a problem as I always have a can-do attitude. I am actively Seeking an opportunity for a Fall 2023 internship in either software development, Quality Assurance, Product Management or Data/Market Research Analytics ."
+  about = "Meticulously calculated about my work and the approaches used in tackling a problem as I always have a can-do attitude with an obsession for dribing measurable results. I am highly coachable, flexible and am actively Seeking opportunities for FTE and Spring 2024 internship in either software development, Quality Assurance, Product Management or Data/Market Research Analytics ."
 
   
   //resumeurl = "https://drive.google.com/file/d/14y1h8kIXf6HzoOMT24cTGzGxQbafCfjB/view"
@@ -205,6 +215,15 @@ Completed capstone Project "Implementing a Phrase Based Speech to Speech Machine
     },
   ];
   exprienceData: any = [
+    {
+      id: 3,
+      company: 'OneHope, Inc.',
+      location: 'Pompano Beach, Florida, United States of America',
+      timeline: 'September 2023 - Current',
+      role: 'Full Stack Software Developer Intern',
+      work: 'Leading the autonomous development of a global web-application aimed at optimizing the delivery of educational resources to underprivileged children worldwide. This visionary initiative is projected to positively impact over 2 billion children by 2033, revolutionizing access to books and essential materials for marginalized communities. .Leveraging skills in MSSQL and stored procedures for developing the backend services through C# and dotNET Frameworks. .Consolidated skills in Vue.js to develop the front-end user interface and customer experience for the application. .Conducted meticulous systems analysis and conceptual ideation to identify entities, use cases, relationships and user stories through conceptual diagrammatic planning via UML diagrams, ERDs for DB administration and Navigation Diagrams for UI/UX. .Providing expertise in identifying redundant code and entities, to champion the adoption of clean coding principles, to improve the overall efficiency of the company\’s ERP system called Hopeworks. .Efficiently utilized Rest APIs to facilitate client-server communication while developing a reactive user experience minimizing the number of calls made to the backend server thereby increasing overall efficiency and reactivity by 70% using Vue.js.'
+
+    },
     {
       id: 3,
       company: 'Ford Motor Pvt. Ltd.',
