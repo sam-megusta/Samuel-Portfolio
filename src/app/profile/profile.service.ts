@@ -217,9 +217,18 @@ Completed capstone Project "Implementing a Phrase Based Speech to Speech Machine
   exprienceData: any = [
     {
       id: 3,
+      company: 'Monk Holdings LLC - Custom Chenille and Embroidery',
+      location: 'Dallas - Texas',
+      timeline: 'January 2024 - current',
+      role: 'Full Stack Software Engineer Intern',
+      work: `
+      Spearheading the development of an ERP software solution, optimizing processes by 20% and boosting accounting, Sales and manufacturing productivity by 70% leveraging Laravel PHP, Vue.Js(over 100 components), Figma (50 Wireframes) and MySQL. .Efficiently remodeled DB systems and Eloquent Queries for all modules including IAM & Accounting, reducing latency by 85%. .Created and maintained automated test scripts using PHPUnit to obtain 90% code coverage. .Commissioned AWS VPC, Jira and Bitbucket for source-code management, enhancing security & development efficiency. .Executed the implementation of CI/CD pipelines via Jenkins integrated with Bitbucket for auto-deployments in 3 environments. .Technologies – Laravel PHP, Vue.js, MySQL, Figma, Lucid, PHPUnit, Eloquent, Bitbucket, Linux, bash, AWS, ECS, ASG, Bash, Splunk`
+    },
+    {
+      id: 3,
       company: 'OneHope, Inc.',
       location: 'Pompano Beach, Florida, United States of America',
-      timeline: 'September 2023 - Current',
+      timeline: 'September 2023 - December 2023',
       role: 'Full Stack Software Developer Intern',
       work: 'Leading the autonomous development of a global web-application aimed at optimizing the delivery of educational resources to underprivileged children worldwide. This visionary initiative is projected to positively impact over 2 billion children by 2033, revolutionizing access to books and essential materials for marginalized communities. .Leveraging skills in MSSQL and stored procedures for developing the backend services through C# and dotNET Frameworks. .Consolidated skills in Vue.js to develop the front-end user interface and customer experience for the application. .Conducted meticulous systems analysis and conceptual ideation to identify entities, use cases, relationships and user stories through conceptual diagrammatic planning via UML diagrams, ERDs for DB administration and Navigation Diagrams for UI/UX. .Providing expertise in identifying redundant code and entities, to champion the adoption of clean coding principles, to improve the overall efficiency of the company\’s ERP system called Hopeworks. .Efficiently utilized Rest APIs to facilitate client-server communication while developing a reactive user experience minimizing the number of calls made to the backend server thereby increasing overall efficiency and reactivity by 70% using Vue.js.'
 
